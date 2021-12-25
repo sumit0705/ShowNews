@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShowNews</string>
+    <string name="about_me_title">About me</string>
+    <string name="about_me_name">Sumit</string>
+    <string name="about_me_contact_no">Call me: +91 9716609164</string>
+    <string name="about_me_email">E-mail: sumit.ryder22@gmail.com</string>
+    <string name="about_me_github">GitHub: https://github.com/sumit0705/</string>
+    <string name="about_me_resume">Resume: Google Drive Link</string>
+</resources>
