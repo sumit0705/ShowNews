@@ -128,7 +128,7 @@ class MainActivity : AppCompatActivity() {
 
         resume.setOnClickListener { view: View? ->
             val url =
-                "https://drive.google.com/file/d/1efXkIvXtoVvdMaAU93DlTIWfa9zSA2FI/view?usp=sharing"
+                "https://drive.google.com/file/d/1HIsYHXGFDtkExVzi3JH_5XKnfVpHSNjF/view?usp=sharing"
             val intent = Intent(Intent.ACTION_VIEW)
             intent.data = Uri.parse(url)
             startActivity(intent)
